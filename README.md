@@ -11,6 +11,7 @@ helo from leed
 
 
 
+
 helo from leed
 
 
@@ -19,3 +20,11 @@ helo from leed
 --comment from the other branch navbar
 pricing
 pricing2
+
+hello from khaled
+hello from khaled
+helo from leed
+navbargit2
+navbargit 
+form main
+PR
